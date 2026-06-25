@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pytesseract
+scikit-learn
+reportlab
+pdf2image
